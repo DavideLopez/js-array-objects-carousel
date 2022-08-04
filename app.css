@@ -8,9 +8,16 @@ ul {
 	list-style: none;
 }
 
+body {
+	background-color: bisque;
+}
+
 .container {
 	max-width: 900px;
 	margin: 0 auto;
+	margin-top: 100px;
+	box-shadow: 0 0 5px #080808;
+
 }
 
 .slider {
